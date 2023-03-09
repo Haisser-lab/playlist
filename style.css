@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    display: flex;
+    gap: 20px;
+}
+.container__estilizado{
+    border: 2px black solid;
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+}
+
